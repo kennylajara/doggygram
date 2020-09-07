@@ -1,7 +1,7 @@
 {
   "name": "pugstagram",
   "version": "1.0.0",
-  "description": "Red social para pugs",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mde production",
