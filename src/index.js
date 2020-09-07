@@ -1,4 +1,4 @@
-import App from './containers/App.svelte';
+import App from './routes/App.svelte';
 
 const app = new App({
     target: document.querySelector('main')
