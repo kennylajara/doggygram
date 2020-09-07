@@ -66,9 +66,9 @@
         <div class="Stories-items">
             <div class="Stories-item">
                 <div class="Stories-item-box">
-                    <img src="https://arepa.s3.amazonaws.com/oscar.png" alt="">
+                    <img src="https://static.platzi.com/media/avatars/avatars/kennylajara_6958ccd3-3774-4113-86af-bd3e983d301d.png" alt="">
                 </div>
-                <h2>gndx <span>Hace 10 horas</span></h2>
+                <h2>kennylajara <span>Hace 10 horas</span></h2>
             </div>
         </div>
     </div>

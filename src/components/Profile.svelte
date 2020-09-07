@@ -1,6 +1,6 @@
 <script>
-    export let nickname;
-    export let name;
+    //export let nickname;
+    //export let name;
 </script>
 
 <style>
@@ -31,11 +31,17 @@
 <div class="Profile">
     <div class="Profile-content">
         <div class="Profile-avatar">
-            <img src="https://arepa.s3.amazonaws.com/oscar.png" alt="">
+            <img src="https://static.platzi.com/media/avatars/avatars/kennylajara_6958ccd3-3774-4113-86af-bd3e983d301d.png" alt="">
         </div>
         <div class="Profile-info">
-            <h2>{nickname}</h2>
-            <span>{name}</span>
+            <h2>
+                <!--{nickname}-->
+                kennylajara
+            </h2>
+            <span>
+                <!--{name}-->
+                Kenny Lajara
+            </span>
         </div>
     </div>
 </div>

@@ -1,7 +1,7 @@
 {
-  "name": "pugstagram",
+  "name": "doggygram",
   "version": "1.0.0",
-  "description": "",
+  "description": "Red social para perros (solo para portafolios)",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mde production",
